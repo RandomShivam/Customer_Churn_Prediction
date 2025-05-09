@@ -11,6 +11,15 @@ This project uses machine learning to predict whether a credit card customer wil
 - Evaluate model performance using metrics like accuracy and confusion matrix
 - Derive actionable insights to help reduce customer attrition
 
+
+## Key Features
+- Data Preprocessing and Cleaning
+- Exploratory Data Analysis (EDA)
+- Feature Engineering
+- Model Training (Logistic Regression, etc.)
+- Model Evaluation (Accuracy, Confusion Matrix, etc.)
+
+
 ## Files
 - `notebooks/Customer_Churn_Prediction.ipynb` – Main notebook with code and analysis
 - `data/BankChurners.csv` – Dataset used for training and evaluation
@@ -23,12 +32,6 @@ You can run the notebook in:
 
 Then open the .ipynb notebook and run all cells.
 
-## Key Features
-- Data Preprocessing and Cleaning
-- Exploratory Data Analysis (EDA)
-- Feature Engineering
-- Model Training (Logistic Regression, etc.)
-- Model Evaluation (Accuracy, Confusion Matrix, etc.)
 
 ## Dataset 
 Source: `https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers`
